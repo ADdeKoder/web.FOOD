@@ -1,0 +1,105 @@
+/* Here we Go */
+
+/* the Header title*/
+.title{
+    background-color: #50C878;
+    padding-top: 10px;
+    padding-bottom: 4px;
+    text-align: center;
+    margin: -8px;
+    margin-bottom: 5px;
+    border-bottom: 5px solid #004E64;
+    
+}
+h1{
+    font-size: 40pt;
+    color: #004E64;
+    font-family: Cal sans;
+}
+
+#tagline{
+    margin-top: -25px;
+    font-family: times new roman;
+    font-size: 14pt;
+    color: white;
+}
+
+#style{
+    background-color: #004E64;
+}
+/* body */
+h2{
+    font-size: 20pt;
+    color: #004E64;
+}
+
+#read{
+  background-color: #50C878;
+  color: white; 
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 4px;
+  padding-left: 8pt;
+  margin-right: 320px;
+  
+  
+}
+
+body{
+    background-image: url('bg.jpg');
+    font-family: inter;
+}
+
+div{/* this is all the write up*/
+    font-size: 15pt;
+    line-height: 30px;
+    margin-left: 10px;
+    text-indent: 5pt;
+}
+
+img{
+    margin-left: 8px;
+    border-radius: 10px;
+}
+
+#rate{
+    font-size: 18pt;
+    color: #004E64;
+    font-weight: bold;
+    margin-right: 5px;
+    
+}
+
+#rating{
+   width: 100px;
+   height: 35px;
+   border: #004E64 2px solid;
+   color: #004E64;
+   border-radius: 5px;
+   background-color: white;
+}
+
+.action{
+    background-color: #50C878;
+    text-decoration: none;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid;
+    font-size: 14pt;
+    transition: background-color 0.3s ease;
+}
+.action:hover {
+    background-color: #004E64;}
+    
+footer{
+    margin: -10px;
+    background-color: #004E64;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: cal sans;
+}
